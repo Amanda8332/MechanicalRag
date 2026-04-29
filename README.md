@@ -279,3 +279,6 @@ Simulation 成功率增益：
 
 - 若需要回退到 Hugging Face，可设置 `MODEL_PROVIDER=huggingface`。
 - 若本机没有 MuJoCo，`simulation.benchmark` 会回退到环境代理模型，流程仍可执行。
+
+
+<!-- contributor-refresh 2026-04-29 22:38:31 -->
